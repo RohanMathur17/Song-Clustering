@@ -1,0 +1,314 @@
+artist,album,track_name,track_id,acousticness,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+The Black Dahlia Murder,Everblack,Into the Everblack,3lQMzffAEj7NnJLL6T0Y62,2.16e-05,0.453,0.98,1,-3.394,1,0.0715,0.0203,0.188,0.132,107.929,273869,4
+Dying Fetus,Reign Supreme,Second Skin,34M02dzGv4LoiHoE4stmp9,0.000522,0.306,0.973,1,-6.021,1,0.0649,0.555,0.308,0.308,109.83,282080,4
+Prototype,Continuum,The Way it Ends,357lzRmFju5vSNl0BqSsL2,6.7e-05,0.288,0.93,10,-5.132,0,0.0598,0.00171,0.0887,0.226,93.71,321987,4
+The Black Dahlia Murder,Ritual,Moonlight Equilibrium,40gZAlqBJbZ9gZFyAo53Cj,3.34e-05,0.511,0.983,4,-5.215,0,0.0932,0.682,0.176,0.356,108.968,208840,4
+The Black Dahlia Murder,Ritual,On Stirring Seas of Salted Blood,0ZjsvDcQE6rPg3hqYfZwHp,0.000605,0.28,0.95,1,-6.142,1,0.143,0.266,0.372,0.119,90.697,282307,3
+The Black Dahlia Murder,Ritual,The Window,6fGOyGmAjpbWb6XSQsmBsQ,6.24e-05,0.474,0.984,10,-5.112,1,0.12,0.946,0.111,0.108,107.935,219320,4
+The Black Dahlia Murder,Ritual,Blood in the Ink,4KBwpbFpKNijwRgDdwDmJ6,0.000154,0.512,0.967,11,-6.208,0,0.101,0.551,0.191,0.141,112.53,280373,4
+The Black Dahlia Murder,Nocturnal,Everything Went Black,1LRi0Km3V44DeCiwfRNr5l,5.43e-05,0.487,0.994,7,-3.633,1,0.175,0.00265,0.151,0.0723,106.965,197040,4
+The Black Dahlia Murder,Nocturnal,What a Horrible Night to Have a Curse,430xmK8Tw4J4VG8PxCqO4I,1.69e-05,0.507,0.993,5,-3.44,1,0.139,0.000665,0.0804,0.104,108.012,230693,1
+The Black Dahlia Murder,Nocturnal,Virally Yours,0TUTZ7R5O5LuB8oT93G2qk,0.000173,0.474,0.982,10,-3.316,0,0.143,0.000405,0.341,0.114,99.72,182507,3
+The Black Dahlia Murder,Nocturnal,Nocturnal,0b01eiSseb2nvVa9izc2rJ,0.000101,0.302,0.984,1,-3.142,1,0.125,2.91e-06,0.701,0.165,100.723,192933,3
+The Black Dahlia Murder,Nocturnal,Deathmask Divine,3oCTRjyXmT1MMn4nVQMKBm,7.36e-06,0.471,0.993,1,-3.738,1,0.191,0.00216,0.0925,0.0672,113.996,217253,4
+The Black Dahlia Murder,Nocturnal,Climactic Degradation,2uq10O440JvKvbzduUYZLa,9.6e-05,0.518,0.982,7,-3.655,1,0.229,2.28e-05,0.321,0.189,112.516,159027,4
+The Black Dahlia Murder,Nocturnal,To a Breathless Oblivion,2fA9AAIcDdzm0Uikppu5T9,2.69e-05,0.187,0.951,0,-4.752,1,0.124,0.00889,0.0963,0.0722,95.283,297160,4
+The Black Dahlia Murder,Nocturnal,Warborn,2iH0puQLN2VxEeDaky3edP,7.31e-06,0.397,0.967,10,-3.942,0,0.0768,0.107,0.0507,0.326,159.945,280213,3
+Lamb of God,Sacrament,Redneck,6Q5j7UxkHMETQrn1ZCuoCE,5.63e-05,0.512,0.996,2,-2.1,1,0.114,0.000167,0.347,0.0601,130.931,220880,4
+Lamb of God,Sacrament,Walk with Me In Hell,7lLfaxlcRLf4XeHFZc7BQ0,3.39e-05,0.286,0.982,0,-3.828,0,0.131,0.00675,0.309,0.118,110.629,311507,4
+Lamb of God,Sacrament,Descending,4SaMfM8rBt6JLIwPa2LiHO,7.94e-05,0.494,0.969,2,-3.5,1,0.0905,4.42e-05,0.0736,0.129,93.185,215240,3
+Lamb of God,Ashes Of The Wake,Omerta,1uOkapWUZPXQRRHTAAfu6E,0.00211,0.415,0.98,6,-4.056,0,0.202,0.00164,0.325,0.185,118.512,285973,4
+Lamb of God,Ashes Of The Wake,Now You've Got Something to Die For,6uw0ccDTu2taJB1KU6ggQk,0.00272,0.36,0.986,2,-2.486,1,0.103,0.00109,0.125,0.217,92.335,219773,4
+Lamb of God,Wrath,Grace,2F9tfxxFvnbijR10IvW6Rg,4.05e-05,0.3,0.976,6,-3.592,1,0.297,0.0237,0.113,0.186,129.204,235133,4
+Lamb of God,Wrath,Dead Seeds,4KVfAs5lGzPHunOT1OZ5fG,0.000175,0.523,0.993,4,-2.523,0,0.139,0.00812,0.244,0.239,114.119,221080,4
+Metalocalypse: Dethklok,The Dethalbum,Better Metal Snake,6RXiVAS7iltes5CFPTBN59,1.28e-05,0.535,0.881,0,-5.899,1,0.0807,0.822,0.101,0.432,142.004,206573,4
+Metalocalypse: Dethklok,Dethalbum III,I Ejaculate Fire,5pqveLrHgPvUZ1SGmw7O1E,0.000206,0.44,0.838,8,-5.771,1,0.041,0.464,0.105,0.149,179.962,218373,4
+Metalocalypse: Dethklok,Dethalbum II,Laser Cannon Deth Sentence,7GRrvK9hkyhnR1JmENf8rS,0.000105,0.215,0.935,5,-5.066,1,0.112,0.894,0.109,0.0433,160.022,275813,4
+Metalocalypse: Dethklok,The Dethalbum,Fansong,5Lioq6dI8B9oIXqjb4YmO2,0.000163,0.59,0.928,10,-6.739,0,0.0825,0.817,0.346,0.325,103.021,172787,4
+Metalocalypse: Dethklok,Dethalbum III,Skyhunter,75ctfr2HzBUit0tpjmIBYZ,6.36e-05,0.557,0.944,1,-3.267,1,0.0551,0.511,0.126,0.334,95.02,248120,4
+Metalocalypse: Dethklok,Dethalbum III,Andromeda,0OQp3Vktk1QNLlkmP0uZrL,0.000215,0.566,0.924,1,-5.254,1,0.0755,0.836,0.258,0.18,100.03,207760,4
+Metalocalypse: Dethklok,Dethalbum II,Symmetry,0bGwjHdGCbn0lXiZSgMTC5,0.000174,0.541,0.941,1,-5.322,1,0.0563,0.846,0.183,0.553,150.027,271227,3
+Metalocalypse: Dethklok,Dethalbum III,Andromeda,0STnoyGGkrT7TGRXUa57bE,0.000189,0.565,0.926,1,-5.272,1,0.0508,0.89,0.236,0.249,100.004,207773,4
+At The Gates,Slaughter Of The Soul,Cold,3JRmeCjOaBqRCvzwCx9MNh,2.28e-06,0.245,0.983,7,-7.314,1,0.124,0.811,0.658,0.276,129.996,207773,3
+At The Gates,Slaughter Of The Soul,Under A Serpent Sun,4Jg1FIbHlwoRi0olOJxtcF,3.66e-06,0.171,0.983,7,-7.688,1,0.191,0.887,0.299,0.184,79.262,239293,4
+The Black Dahlia Murder,Deflorate,I Will Return,5sFfSPYg2oypNTLW3qfWL6,0.000163,0.441,0.98,3,-5.258,1,0.114,0.0371,0.262,0.0964,107.965,334800,4
+The Black Dahlia Murder,Deflorate,Necropolis,4q78b8XmMWj2PyTh0PQVf9,0.000112,0.49,0.968,7,-5.013,0,0.118,0.0628,0.198,0.199,106.987,210480,3
+Kataklysm,Shadows And Dust Deluxe Edition,In Shadows And Dust,6oQyQfebdazHVbbhfDOM7F,0.000745,0.239,0.956,7,-4.891,1,0.265,0.00722,0.167,0.0533,82.277,168747,4
+Kataklysm,The Prophecy,Stormland,0pfnlUBHg3xSpnYSRdrCne,4.72e-06,0.309,0.91,6,-4.845,0,0.136,0.000774,0.0396,0.363,104.431,193373,4
+The Black Dahlia Murder,Miasma,Statutory Ape,28Tr02JcJSJCgz1z6dUN9b,1.03e-05,0.443,0.993,0,-4.833,0,0.122,0.0287,0.0744,0.0403,106.239,222280,4
+The Black Dahlia Murder,Miasma,Miasma,6ocVtY2pO2fxuvhaQVKMqP,5.65e-06,0.25,0.974,5,-5.777,0,0.108,0.0105,0.124,0.061,111.209,281573,4
+Decapitated,Nihility,Spheres of Madness,4lNznSUjByH5zWpPZFFeff,2.59e-05,0.472,0.998,6,-4.674,0,0.224,0.586,0.225,0.0863,154.901,315133,4
+Lamb of God,Sacrament,Again We Rise,6mKoFffXxSVfWvewIAM180,9.12e-05,0.431,0.994,2,-3.743,1,0.153,3.3e-05,0.115,0.0617,110.268,270440,4
+Lamb of God,Sacrament,Blacken The Cursed Sun,12jKlb0EwgmLi2DA2yEGoQ,3.68e-05,0.401,0.995,6,-2.831,0,0.118,0.00128,0.176,0.112,116.444,328200,3
+The Black Dahlia Murder,Deflorate,Black Valor,2zAgEHeif0PDty6tMnZQfU,9.17e-05,0.478,0.973,1,-5.03,1,0.167,0.0192,0.302,0.233,112.595,189373,4
+The Black Dahlia Murder,Deflorate,"Denounced, Disgraced",1Oq6xVJKV0AGbZB9K9wzRe,0.000923,0.438,0.973,7,-5.117,1,0.153,0.00892,0.488,0.107,105.027,223280,3
+In Flames,Siren Charms,Siren Charms,5pxL3QTr6OBveQbHcG3nYa,0.000457,0.576,0.863,3,-4.245,0,0.0491,0.000593,0.0763,0.4,95.081,184253,3
+Dying Fetus,Reign Supreme,Subjected to a Beating,7dU9Z24yR9AKuS9cAe2Tj7,0.000254,0.231,0.983,8,-5.199,1,0.0977,0.059,0.506,0.336,161.044,293387,4
+Dying Fetus,Grotesque Impalement,Grotesque Impalement,7KT0ITk9CT16thNSLxd1rZ,0.000274,0.34,0.872,1,-7.515,1,0.112,0.366,0.0911,0.413,94.032,308709,4
+Dying Fetus,Reign Supreme,In the Trenches,36YSMRcddGQIFBuYnvZOMv,0.00167,0.298,0.946,6,-5.62,0,0.0733,0.0628,0.349,0.628,103.329,224480,4
+Dying Fetus,Destroy the Opposition,Epidemic of Hate,2XLyG9dyUJ5Nns4SmGpPOr,0.000331,0.413,0.942,6,-6.082,0,0.158,0.013,0.0748,0.369,125.865,282400,4
+Metalocalypse: Dethklok,The Dethalbum,Face Fisted,5tvdxJ8JpA9u4lKsLcUYKL,0.000331,0.64,0.821,1,-7.522,1,0.0422,0.919,0.273,0.594,105.059,257173,4
+Dying Fetus,Reign Supreme,Dissidence,0DVO934dqbUuAuAS0l7AKF,0.000234,0.309,0.985,2,-5.559,1,0.123,0.0719,0.155,0.247,120.027,207560,4
+Metalocalypse: Dethklok,Dethalbum II,Burn the Earth,2Ot3d8cruuKAwwfzagj0X2,3.72e-06,0.572,0.888,1,-6.132,1,0.0352,0.924,0.207,0.377,119.981,239667,3
+Metalocalypse: Dethklok,Dethalbum II,Bloodlines,31BQPqg0PGatf52fIeu3Hh,1.95e-05,0.591,0.877,1,-6.816,1,0.0573,0.911,0.104,0.163,109.944,210560,4
+Metalocalypse: Dethklok,Dethalbum II,Black Fire Upon Us,5umG01vYs9Sl2aD7FF1s2m,3.71e-05,0.45,0.926,8,-6.418,1,0.0642,0.622,0.135,0.342,165.03,340027,3
+Dying Fetus,Descend Into Depravity,Ethos of Coercion,0ghgsfOnoXJT7jsS63U8et,5.81e-05,0.229,0.905,2,-6.434,1,0.0698,0.934,0.367,0.177,92.239,196427,4
+Metalocalypse: Dethklok,The Dethalbum,Murmaider,5ghMfHMHakVS0omjj2cBSA,0.000643,0.407,0.863,0,-7.968,1,0.0704,0.591,0.128,0.519,113.98,204360,3
+Metalocalypse: Dethklok,The Dethalbum,Go Into the Water,56C7rBk3rrZ0bsm029Esw0,0.000225,0.246,0.802,1,-6.207,1,0.0627,0.253,0.142,0.203,180.293,260227,3
+Metalocalypse: Dethklok,The Dethalbum,Go Forth and Die,0QE5hb7A6qCQtZ8bPtFFPa,8.5e-06,0.563,0.874,8,-6.136,1,0.0376,0.822,0.0518,0.545,117.005,261627,3
+Metalocalypse: Dethklok,The Dethalbum,Detharmonic,3fXjDa7j6p59VvN4lLI5lQ,0.0015,0.294,0.858,7,-6.044,0,0.0691,0.061,0.333,0.16,120.163,270880,4
+Dying Fetus,Descend Into Depravity,Atrocious By Nature,10MUfGStjV2jyOZkNbRBHY,1.51e-05,0.281,0.893,4,-6.61,1,0.068,0.913,0.301,0.315,109.665,232093,4
+Metalocalypse: Dethklok,Dethalbum III,The Galaxy,15LWppLETHFjpcjSKkbFLt,1.23e-05,0.471,0.91,5,-5.177,0,0.0515,0.888,0.108,0.232,94.979,315107,4
+Lamb of God,512,512,1nF799xuckKAddjI8JA4Ct,1.76e-05,0.351,0.969,1,-4.635,1,0.0993,0.0686,0.0857,0.115,192.165,285027,4
+Lamb of God,Still Echoes,Still Echoes,0V1WiVp8DRjv8M9nhblTgR,4.46e-05,0.257,0.989,2,-5.005,1,0.127,0.0167,0.358,0.0935,121.061,262334,4
+Lamb of God,Overlord,Overlord,5dTTOdOQkQDhK1nCVtrfaH,0.000752,0.498,0.841,0,-5.943,1,0.0341,0.00951,0.115,0.305,110.055,388107,4
+Henker,Slave of My Art,Breath of Death,1B7JhRZMvd5BwGbEpLTCRq,0.000438,0.262,0.887,2,-6.176,0,0.0875,0.0114,0.319,0.0954,135.64,169280,3
+Henker,Slave of My Art,Mental Corruption,5m2P7UpTdvVKVbPHaCWNSz,0.00314,0.476,0.947,5,-6.427,1,0.14,0.464,0.235,0.0752,124.95,229000,4
+Ingested,The Architect Of Extinction (NotSet),The Divine Right Of Kings,1q9wdBbqIBtxGxHM7t4sja,8.25e-06,0.277,0.982,2,-2.403,1,0.219,0.0108,0.305,0.163,135.027,240040,4
+Ingested,Surpassing the Boundaries of Human Suffering,Skinned and Fucked,5mQVlNTbX3GMbpp0RgIXTJ,0.000227,0.301,0.978,9,-5.534,1,0.234,0.237,0.551,0.231,133.04,231587,4
+Ingested,"Revered by No-One, Feared by All",Titanomachy,7uGsN6EifVvuiGPMRvApJM,2.23e-05,0.478,0.994,2,-2.099,1,0.134,2.08e-06,0.0627,0.157,135.012,203102,4
+Ingested,The Architect Of Extinction (NotSet),Narcissistic Apathy,5mg4uYTrr51O4hSmOE0VUq,8.34e-06,0.288,0.995,2,-2.295,1,0.219,0.879,0.317,0.102,140.081,226653,4
+Ingested,The Architect Of Extinction (NotSet),The Heirs To Mankind's Atrocities,1H9QRBOKP8xJBqbnWbOxOh,5.21e-05,0.228,0.988,3,-2.103,1,0.203,0.0241,0.0767,0.218,145.034,254413,4
+Ingested,The Architect Of Extinction (NotSet),"I, Despoiler",5uRPQKI3J5jVXWg2hkyIS5,1.67e-05,0.46,0.993,7,-2.459,1,0.173,0.266,0.329,0.148,139.92,261720,4
+Ingested,The Architect Of Extinction (NotSet),A Nightmare Incarnate,4jn8FhYoD6784EDcUR6jV0,1.92e-05,0.222,0.983,8,-2.345,0,0.147,0.0491,0.351,0.349,94.81,216973,3
+Ingested,The Architect Of Extinction (NotSet),Extinction Event,45smf3vBIYp0VxWSka9UR7,9.11e-06,0.47,0.98,2,-1.989,1,0.194,0.00932,0.308,0.208,137.453,243053,4
+Ingested,The Architect Of Extinction (NotSet),Amongst Vermin,4PlZKj1MnpQIMUTdCSvZ6f,6.79e-06,0.242,0.98,9,-2.409,1,0.179,0.741,0.524,0.0918,139.979,237427,4
+Cattle Decapitation,Monolith of Inhumanity,Forced Gender Reassignment,28kizMSvL3DcCGINWSOUjq,6.69e-05,0.345,0.975,1,-3.573,0,0.251,0.691,0.312,0.163,115.301,233693,4
+The Black Dahlia Murder,Abysmal,"Vlad, Son of the Dragon",1MpZtW4yINIqg1qO68EIqx,6.41e-06,0.441,0.996,8,-4.1,1,0.226,0.0726,0.296,0.0419,120.012,176879,4
+The Black Dahlia Murder,Abysmal,Abysmal,6fnb2Zp85KF9hZbGSTLvnD,1.77e-05,0.274,0.995,7,-3.109,1,0.213,0.621,0.177,0.0398,170.08,221845,4
+The Black Dahlia Murder,Abysmal,Re-Faced,6OFvfAm2ntKqahee23DJNh,0.000195,0.467,0.994,1,-2.712,1,0.121,0.0295,0.426,0.135,104.986,230182,3
+The Black Dahlia Murder,Abysmal,The Advent,3pelo5NqJ5McVigVPEozae,0.000144,0.478,0.994,1,-2.754,1,0.079,0.0337,0.469,0.181,101.942,221973,4
+The Black Dahlia Murder,Abysmal,Threat Level No. 3,1zFI7KBTOPyJHSy8xUvrPt,2.36e-05,0.451,0.998,8,-3.595,1,0.229,0.00785,0.317,0.0397,122.543,226126,4
+The Black Dahlia Murder,Abysmal,Receipt,1KwBn2zehTlpDRuSTVTkk9,4.15e-05,0.472,0.987,8,-4.227,1,0.197,0.444,0.487,0.0501,110.024,242500,4
+Ingested,Surpassing the Boundaries of Human Suffering,Pre-Released Foetal Mush,27S8vCgLeuwhCC1IFpOYKt,0.000546,0.4,0.934,7,-5.596,1,0.242,0.813,0.409,0.238,139.767,192933,4
+Ingested,Surpassing the Boundaries of Human Suffering,Intercranial Semen Injection,3uFxVe2NoBLotnXUVyqxZE,5.53e-05,0.3,0.984,1,-5.662,1,0.211,0.729,0.32,0.0889,129.045,216013,4
+Ingested,Surpassing the Boundaries of Human Suffering,Contorted Perception,0ecL0BwmwoeKSZU7u5LFYN,4.32e-05,0.266,0.978,2,-5.404,1,0.209,0.951,0.124,0.0702,139.578,188000,4
+Ingested,Surpassing the Boundaries of Human Suffering,Copremesis,6njXUIAFKvVH0j2wyCOzQE,0.000301,0.572,0.979,6,-6.697,1,0.116,0.698,0.42,0.25,130.011,251373,4
+Ingested,Surpassing the Boundaries of Human Suffering,Stillborn,2nHYTFTjgNHcvmsBQJlCrn,2.58e-05,0.214,0.934,1,-5.126,1,0.198,0.169,0.248,0.232,166.516,232493,1
+Ingested,Surpassing the Boundaries of Human Suffering,Cremated Existence,4mM1mdHZso1krZxRQ9VVva,0.000652,0.401,0.944,7,-5.633,1,0.154,0.847,0.353,0.193,124.862,202213,3
+Ingested,Surpassing the Boundaries of Human Suffering,Condemned to Rape,1DZ4Ja2x5J6GNCqQImWB1u,3.84e-05,0.47,0.947,7,-5.336,1,0.231,0.727,0.365,0.142,134.951,215533,4
+Ingested,Surpassing the Boundaries of Human Suffering,Arial Evisceration,5f9irpX4VZ4jCIcfLkRgtV,0.000681,0.302,0.967,6,-6.104,1,0.211,0.71,0.483,0.142,140.371,274213,4
+Necrophagist,Epitaph,Only Ash Remains,44BpmdcfqbgqnuaLhjJRbH,6.61e-05,0.384,0.98,2,-6.45,1,0.213,0.301,0.221,0.0675,119.89,251093,4
+Cerebral Bore,Maniacal Miscreation,The Bald Cadaver,6IYIM4IWgFuiyPXrTgXQNZ,7.29e-05,0.342,0.847,7,-7.343,0,0.108,0.766,0.258,0.334,164.912,200133,4
+The Agony Scene,The Darkest Red,Scapegoat,0M7q1ZAyNBbaZiT7PFwoLn,1.96e-06,0.476,0.993,4,-2.298,0,0.117,0.195,0.0536,0.141,139.989,176467,4
+Acrania,Totalitarian Dystopia,Hollow,4V4bXHGCqZXB92iL8oNlbt,0.00162,0.336,0.879,6,-6.678,1,0.0939,0.795,0.563,0.131,129.524,142250,4
+Acrania,Totalitarian Dystopia,Festering with Dishonesty,0cK850MMvY00iQntxdyer9,0.000522,0.303,0.954,5,-4.635,1,0.139,0.554,0.354,0.265,119.878,225750,4
+Acrania,Totalitarian Dystopia,Totalitarian Dystopia,2Fk8eMw0H247XmU1AHQ8zu,0.000207,0.279,0.925,9,-4.53,0,0.108,0.209,0.431,0.281,95.08,290125,4
+Acrania,Totalitarian Dystopia,Servants of Hypocrisy,4LkCMynpgsItt6F4VRa9iN,0.000128,0.44,0.977,8,-4.315,1,0.178,0.212,0.222,0.308,145.046,222875,4
+Acrania,Totalitarian Dystopia,Survival Sequence,3Rk6N31PuDuV5lICf9yGhV,0.000264,0.396,0.839,9,-5.194,1,0.0681,0.869,0.229,0.263,170.132,154625,4
+Acrania,Totalitarian Dystopia,A Gluttonous Abomination,4ywlVADMEchrtcD15nx2EG,0.000259,0.324,0.935,11,-4.44,0,0.151,0.0951,0.453,0.16,124.575,382500,4
+Acrania,Totalitarian Dystopia,"Lobotomise, Dehumanise, Negate",6Pgtsni700HlCPTKwn6xkF,0.000689,0.35,0.924,0,-4.554,1,0.187,0.0478,0.115,0.354,129.755,231250,4
+Acrania,Totalitarian Dystopia,Messiah of Manipulation,0Rdz28gFQScnccWNYvrKoE,0.000192,0.336,0.782,0,-4.829,1,0.0754,0.437,0.356,0.535,120.079,166500,4
+Acrania,Totalitarian Dystopia,Disillusion in a Discordant System,78NtFzt1vDRkyWSPbIIm4f,0.00044,0.294,0.927,2,-4.683,1,0.145,0.379,0.0866,0.292,139.874,173250,4
+Trepalium,Voodoo Moonshine,Moonshine Limbo,7ntOm7rMArRCXKUGs5LPMk,0.000262,0.353,0.981,2,-3.563,1,0.222,0.0243,0.326,0.493,203.804,226531,4
+Dimmu Borgir,In Sorte Diaboli (Deluxe),The Chosen Legacy,7L1WEyY6qCMa0D7IkcPxoK,7.28e-06,0.201,0.94,7,-3.59,0,0.103,0.105,0.0838,0.1,149.922,258987,4
+The Red Shore,The Avarice of Man,The Seed of Annihilation,0lfO6FmEertzk1DuQ86Alj,0.00402,0.428,0.943,10,-6.315,0,0.144,0.882,0.759,0.109,79.991,252933,4
+Martyr Defiled,No Hope No Morality,Demons in the Mist,4uOgK9jn7C66cXnmCpvVDF,1.3e-05,0.388,0.99,10,-0.692,1,0.0756,0.0228,0.352,0.171,165.05,250497,3
+Cannibal Corpse,Torture,Scourge of Iron,1OnzKhDTRQ8sGoUvkUHgO4,0.000539,0.446,0.977,10,-5.009,0,0.102,0.376,0.119,0.305,171.994,284400,4
+Trivium,Shogun (Special Edition),Kirisute Gomen,5oELEE5XmqWw9gIFsb878g,4e-05,0.207,0.982,11,-2.623,1,0.251,6.1e-05,0.112,0.126,198.171,387400,4
+The Dialectic,We Are Obscurity,Dark Archon,7cZFeHkZEoeyRsbDE56QgC,5.15e-06,0.534,0.925,10,-2.169,0,0.0479,0.889,0.153,0.192,150.017,172852,4
+Trepalium,Alchemik Clockwork Of Disorder,Sick Boogie Murder,2jKhXWlPIVoJCHVdjTAoux,0.000257,0.352,0.883,1,-5.218,1,0.089,0.777,0.0388,0.42,100.269,201453,4
+Abominable Putridity,The Anomalies of Artificial Origin,Remnants of the Tortured,5ta1WnrCYimokIrEKlfTJc,0.00105,0.352,0.99,11,-1.683,0,0.249,0.856,0.0808,0.07,121.856,240000,5
+Aeon,Aeons Black,Still They Pray,6HdjdwU8SbpUQ6ebFexocx,4.3e-06,0.298,0.991,10,-4.561,0,0.234,0.875,0.349,0.0868,199.943,228573,3
+Abnormality,Contaminating the Hive Mind,Monarch Omega,5RbqNB5HMFkyqXLDdxn0jP,6.61e-05,0.261,0.97,11,-3.248,1,0.182,0.828,0.0932,0.344,142.087,196850,4
+A Different Breed Of Killer,"I, Colossus","I, Colossus",4NPQbmhYInLBbhJ9xTGuVw,0.000153,0.31,0.954,1,-5.628,1,0.121,0.00179,0.412,0.231,107.029,248000,4
+Suffokate,"No Mercy, No Forgiveness",Not the Fallen,3qgmgPq1g1QvzL012Uf6Ht,1.26e-05,0.243,0.937,6,-3.875,1,0.146,0.575,0.0981,0.246,139.911,235893,4
+Behemoth,Zos Kia Cultus,As Above So Below,6RxzW1gYB5qCWGl2fV6bdb,7.63e-05,0.36,0.942,10,-6.308,0,0.139,0.00456,0.0701,0.194,99.99,299227,4
+Cannibal Corpse,A Skeletal Domain,Vector of Cruelty,1lNWDDB5XXbZ7rRqcdDdFj,0.00384,0.339,0.991,10,-2.403,0,0.176,0.00645,0.574,0.217,113.374,205147,4
+The Agonist,Lullabies For The Dormant Mind,...And Their Eulogies Sang Me To Sleep.,3QRfSrXGiMvety2AxLfmAm,0.000435,0.289,0.993,6,-2.867,0,0.243,0.334,0.409,0.0524,123.71,212373,3
+Spawn of Possession,Incurso,Where Angels Go Demons Follow,6dlWHhp0U47m1vQW8YMrxe,5.64e-05,0.523,0.979,7,-5.263,0,0.0679,0.875,0.163,0.155,119.99,338373,4
+Make Them Suffer,Neverbloom,Neverbloom,6BZ39HmIAxI1wNfExKXC6z,0.000505,0.256,0.986,10,-3.381,0,0.202,5.14e-05,0.311,0.0825,112.438,394173,4
+Daath,The Concealers,Day Of Endless Light,1cyR8gRYOU2Dh9AXsT95xw,6.99e-05,0.39,0.938,1,-4.45,1,0.0698,0.847,0.0934,0.389,98.281,253147,4
+Annotations Of An Autopsy,Welcome To Sludge City,Gore Gore Gadget,4CPMMbe2qzW7CKZoTunVlX,5.62e-05,0.358,0.956,7,-5.007,1,0.134,0.485,0.048,0.202,140.173,224320,4
+Within Destruction,Void,Void,02JxJbVrolO2Ct8WYqVPIP,4.38e-05,0.202,0.962,9,-3.583,0,0.157,0.864,0.0292,0.154,159.814,217107,4
+Infant Annihilator,The Palpable Leprosy of Pollution,Cuntcrusher,3aMtI7WH9U7665smabqYlj,4.22e-05,0.267,0.975,10,-1.879,0,0.152,0.618,0.073,0.151,129.999,298880,4
+Burning The Masses,Offspring Of Time,Immersed Entity,0eXC457K4sjVYe7MknFKBm,0.000584,0.216,0.956,8,-2.64,1,0.218,0.612,0.349,0.154,200.379,295213,4
+Metalocalypse,The Doomstar Requiem: A Klok Opera Soundtrack,Blazing Star,53EWgmPtOFvV6CAaMnGxkc,8.05e-06,0.457,0.929,5,-8.633,0,0.0582,0.876,0.103,0.371,159.971,276827,4
+Cannibal Corpse,Torture,Demented Aggression,1sMjMI1vVaA70dTxh4tucZ,0.0025,0.413,0.996,6,-4.841,1,0.173,0.596,0.0651,0.27,149.982,194467,4
+Cannibal Corpse,Torture,Sarcophagic Frenzy,6ykdfUPO7cWprVUjIbIgwI,8.2e-05,0.285,0.993,6,-5.266,1,0.181,0.679,0.0927,0.0868,117.372,222880,4
+Cannibal Corpse,Torture,Encased In Concrete,4yI7b8n6h54bp7UQ1z8UBT,0.000476,0.263,0.996,10,-4.436,0,0.136,0.269,0.339,0.198,134.886,193827,3
+Cannibal Corpse,Torture,As Deep As the Knife Will Go,6gzTnhzE3WL6RNYs0EkkIY,0.0001,0.491,0.985,1,-4.539,1,0.0946,0.833,0.322,0.168,96.069,205787,4
+Cannibal Corpse,Torture,Intestinal Crank,1im3Off2qbXcOL1bfTQVaa,0.000183,0.209,0.993,6,-5.121,1,0.33,0.823,0.154,0.3,148.154,234773,4
+Cannibal Corpse,Torture,Followed Home Then Killed,5hHlnflNWv3mjkbUghu22V,0.000357,0.251,0.993,10,-4.789,0,0.238,0.605,0.31,0.14,100.994,216547,4
+Cannibal Corpse,Torture,The Strangulation Chair,1XoDuQWETlzKgFgBNru2xk,0.000546,0.301,0.968,10,-5.131,0,0.211,0.4,0.0874,0.279,123.912,249520,4
+Cannibal Corpse,Torture,Caged...Contorted,0PV7aQ8yfo3cr3LLyq7KbV,0.000155,0.283,0.99,6,-5.53,0,0.144,0.597,0.279,0.345,125.869,233880,4
+Cannibal Corpse,Torture,Crucifier Avenged,5IblssBOKZZIpKpm8KVn9P,0.00121,0.515,0.99,1,-5.403,1,0.0944,0.809,0.275,0.457,96.002,226333,4
+Cannibal Corpse,Torture,Rabid,2V2ypDfO6zxqqgOEEWBXEB,0.00106,0.514,0.994,6,-5.741,0,0.0548,0.745,0.395,0.537,107.958,184493,4
+Cannibal Corpse,Torture,Torn Through,53BmrfaX7mo2pXy4e9R8G7,0.00051,0.453,0.991,6,-4.621,0,0.154,0.481,0.0977,0.215,100.091,191387,1
+Psychostick,IV Revenge of the Vengeance,So. Heavy.,0x2J81IoRnA1BVJSM2OkeN,5.76e-05,0.528,0.921,1,-5.6,1,0.192,0.0028,0.267,0.344,120.573,288004,4
+Despised Icon,Day Of Mourning,MVP,4V0RC6IcYaedTD1xSr2hQI,0.00252,0.44,0.923,7,-2.478,1,0.2,0.0483,0.416,0.215,139.92,205653,4
+Conducting From The Grave,Conducting from the Grave,Honor Guide Me!,5RRWh0WTfhrnfxkzxINuma,2.33e-05,0.5,0.996,5,-1.415,1,0.203,0.14,0.247,0.0998,110.052,265362,4
+Despised Icon,The Ills of Modern Man,Furtive Monologue,6D6wXQdRpFXhGPnt2b1dmq,0.0104,0.381,0.964,5,-3.726,0,0.146,0.0863,0.129,0.405,144.017,202227,5
+Despised Icon,Day of Mourning,Day of Mourning,3wQnguFVtKptnaHjM8HfNp,0.000748,0.645,0.857,11,-1.949,0,0.142,0.153,0.294,0.316,105.024,182120,4
+Despised Icon,Day of Mourning,All for Nothing,3GQTzqBksu3A6wOpwutr3I,0.000206,0.57,0.969,11,-1.985,0,0.185,0.302,0.152,0.214,112.524,194947,4
+Despised Icon,The Ills of Modern Man,In the Arms of Perdition,5Genp2tGRn0vwM9F5pHMKu,0.00218,0.375,0.957,6,-3.728,1,0.166,0.0186,0.269,0.242,111.854,264880,4
+Beneath The Massacre,Mechanics of Dysfunction,The Invisible Hand,2Y4ZGTq1a87eXF3vuvdNqe,0.000292,0.364,0.903,7,-3.838,1,0.268,0.363,0.311,0.267,125.168,187493,4
+Left to the Wolves,In the Absence of Humanity,Slave: Mother Earth,5tiFH73YfxWkm63OBDVGI4,0.000217,0.456,0.933,2,-2.891,1,0.087,0.44,0.193,0.159,105.95,199987,4
+Pathology,The Time Of Great Purification,Tyrannical Decay,6Jl29UEtUn7OGbf7b23uqa,0.000133,0.455,0.968,10,-5.691,0,0.0912,0.85,0.282,0.228,127.512,168133,4
+Six Feet Under,Maximum Violence,Feasting on the Blood of the Insane,53I5E1K1L0juUgg3LXZp7T,0.00258,0.348,0.94,7,-7.169,1,0.0944,0.685,0.136,0.0416,144.606,272133,4
+Soreption,Engineering the Void,Breaking The Great Narcissist,2XebSP35V61tCU5436w3HD,0.000599,0.333,0.946,7,-5.467,1,0.295,0.234,0.775,0.136,104.957,359693,4
+Cytotoxin,Radiophobia,Abysm Nucleus,1Obnmt7wBhHGiLbGWVL6DC,0.000113,0.269,0.974,4,-4.041,0,0.171,0.797,0.367,0.0489,124.981,336200,4
+Infant Annihilator,The Palpable Leprosy of Pollution,Decapitation Fornication,2ZHzrzp6sTqIYKmuynN29k,0.00015,0.229,0.969,10,-2.668,0,0.247,6.45e-05,0.216,0.157,162.431,207240,4
+Existence Has Failed,Dreadful,Severance (Ft.Tyler Shelton),2i5rrArKtUnR1LUA1t9RXr,0.000107,0.306,0.982,2,-2.801,0,0.302,0.661,0.262,0.0392,119.543,330662,5
+Devourment,Butcher the Weak,Babykiller,6jTVjXofQJ8ddOv2oj0sDU,0.0209,0.339,0.99,2,-3.524,1,0.156,0.874,0.0856,0.112,111.632,310093,4
+Inactive Messiah,Dark Masterpiece,Lord of Avaris,2AxDWWSechhJOKllfw7OAm,0.000308,0.399,0.964,8,-6.712,1,0.0635,0.0134,0.0938,0.262,169.953,280875,4
+Fleshgod Apocalypse,King,The Fool,5o4NqaGLOzbiEbMXUHCNe5,0.000193,0.459,0.989,6,-4.108,1,0.124,0.00323,0.181,0.201,114.925,246373,4
+Fleshgod Apocalypse,King,Healing Through War,2K8Ozh4mbNEhyzsmkHTLun,0.000473,0.57,0.941,11,-4.805,1,0.0494,0.662,0.304,0.384,100.03,283040,4
+Fleshgod Apocalypse,Mafia,Thru Our Scars,1NT7CmUCfsk3K76UsVBdrW,0.000203,0.404,0.995,4,-4.241,0,0.183,0.667,0.115,0.0871,140.14,331027,4
+Amon Amarth,Jomsviking,First Kill,7wVdKwd0CZkzLT2cRcTSqz,7.73e-06,0.428,0.947,7,-5.068,1,0.0466,0.59,0.147,0.12,94.5,261400,4
+Amon Amarth,Jomsviking,Wanderer,2bMF1PFoTZYZPEjDCnlKgx,0.000124,0.545,0.85,11,-5.854,1,0.0354,0.551,0.541,0.347,124.978,282893,4
+Amon Amarth,Jomsviking,On a Sea of Blood,5URG5D3wAJXkfSg8seFReL,1.69e-05,0.45,0.943,9,-5.415,0,0.0531,0.829,0.238,0.272,95.021,244640,4
+Amon Amarth,Jomsviking,One Against All,51IAzqhjNWRJVcpqFL4h55,4.07e-05,0.5,0.88,1,-5.201,0,0.0429,0.435,0.102,0.511,145.008,217933,4
+Amon Amarth,Jomsviking,Raise Your Horns,6ypKaenmVXMCXvlkfYOpjf,6.05e-05,0.458,0.873,5,-5.336,1,0.0439,0.737,0.0664,0.551,164.984,263760,3
+Amon Amarth,Jomsviking,The Way of Vikings,19zT5M46RioXTv0PzU22Hb,2.68e-05,0.495,0.948,7,-4.763,1,0.0653,0.299,0.123,0.169,140.004,311320,4
+Amon Amarth,Jomsviking,At Dawn's First Light,4jdtTRrU1PAkCOw5JY6m25,5.56e-05,0.171,0.899,4,-5.018,0,0.0613,0.579,0.206,0.341,79.992,230747,4
+Amon Amarth,Jomsviking,One Thousand Burning Arrows,4Uou9c1Unfex53b0kzMCta,0.000134,0.517,0.885,4,-6.053,0,0.0457,0.206,0.343,0.25,120.016,349920,4
+Amon Amarth,Jomsviking,Vengeance Is My Name,1Dh09JSzkqQi1jJG0cQS77,2.15e-05,0.496,0.923,9,-5.289,0,0.0481,0.511,0.453,0.326,121.045,281707,4
+Amon Amarth,Jomsviking,A Dream That Cannot Be,38tkHSLEZcTEMpRbQEAjcR,1.95e-05,0.539,0.867,9,-5.096,0,0.044,0.491,0.182,0.239,135.043,262813,4
+Amon Amarth,Jomsviking,Back on Northern Shores,3QKEiCO5QCuUyV6B35YCbc,4.88e-05,0.494,0.94,9,-5.396,0,0.0529,0.737,0.0713,0.141,110.015,428520,4
+Serpentine Dominion,The Vengeance in Me,The Vengeance in Me,3rYxtQqP5TXpz4u8QOpqji,9.64e-05,0.239,0.991,2,-3.302,1,0.172,0.0793,0.43,0.1,112.131,150821,4
+Jinjer,Cloud Factory,Cloud Factory,29IyWJh1pBpBChjp82KyOt,8.02e-05,0.536,0.974,7,-1.652,1,0.0876,9.97e-06,0.327,0.288,124.99,284400,4
+Boris The Blade,The Human Hive,Spawn of Agony,78ixienlAwXPQJbHJnDXet,0.000585,0.581,0.949,8,-3.656,1,0.0931,0.00651,0.295,0.229,132.507,208703,4
+Ion Dissonance,Minus The Herd,The Surge,0MoeGesMxhIfp4BzBXUPkt,2.39e-05,0.607,0.948,10,-5.572,1,0.0994,0.826,0.346,0.178,109.976,200240,4
+So This Is Suffering,A Deathscene On Delay,Wait to Exhale,0b51dXqCWPVZJIMMNgrgD4,9.22e-05,0.256,0.98,11,-4.822,1,0.116,0.661,0.1,0.303,117.278,258241,3
+Resist The Thought,Sovereignty,Resurrect The Reaper,1OAvfHlvRnRfRuvmkdMsXL,0.00095,0.381,0.993,5,-3.743,1,0.232,0.00695,0.151,0.105,108.607,176114,3
+All Shall Perish,The Price Of Existence,There Is No Business To Be Done On A Dead Planet,4omPJVp5fkfLZEZZ4zoFJV,7.47e-05,0.57,0.981,0,-2.091,0,0.127,0.882,0.0568,0.127,109.96,181551,4
+Ringworm,Hammer of the Witch (Deluxe Version),Dawn of Decay,6TnGaINykO7Pwv6NJv3irr,5.34e-05,0.456,0.993,4,-4.85,0,0.236,0.000713,0.96,0.035,100.969,198004,4
+Tormention,Chaotic Delusions,Burn,1yHUcfXLBfqqi6jm8xkKOt,7.42e-05,0.38,0.997,6,-5.449,1,0.118,0.715,0.371,0.0359,160.053,222050,4
+Shadow of Intent,Primordial,The Prelude to Bereavement,0V0IjRWO63CyI9YD4DgcTZ,0.00079,0.418,0.901,5,-5.043,1,0.0868,0.857,0.186,0.0899,110.036,350714,4
+Acrania,Totalitarian Dystopia,Susceptible to Retinal Reprogrammability,4x4KBPy2kCkaDbBxvlRcTf,0.000547,0.316,0.925,9,-4.773,1,0.102,0.158,0.765,0.514,138.346,212250,4
+Lamb of God,Ashes Of The Wake,Laid to Rest,0lCwaZYSRy6q0jLmnYiQxi,0.000216,0.359,0.959,1,-3.685,1,0.104,0.00343,0.435,0.158,103.038,230227,3
+Serpentine Dominion,Serpentine Dominion,Vanquished Unto Thee,45gDXrZZ86ANWcDPpXgaVp,0.000158,0.43,0.984,1,-3.28,0,0.162,0.00977,0.496,0.0912,115.189,174196,4
+Serpentine Dominion,Serpentine Dominion,"Divide, Conquer, Burn, And Destroy",0ddi4FSAsZsVqYKCEhrW6s,0.000345,0.506,0.981,8,-3.916,1,0.199,0.264,0.335,0.175,119.968,156344,3
+Serpentine Dominion,Serpentine Dominion,Sovereign Hate,4kZZmRI6hmlMiwxmiJvw47,0.000255,0.243,0.987,2,-4.244,1,0.124,0.0358,0.0998,0.078,114.745,223518,3
+Serpentine Dominion,Serpentine Dominion,On the Brink of Devastation,2Zz3FVXIHZGw2Zt1b5KbxW,0.000202,0.235,0.985,0,-3.901,0,0.214,0.0124,0.384,0.0843,99.576,159596,3
+Serpentine Dominion,Serpentine Dominion,Jagged Cross Legions,1hf5Zj4X5C1dA2gnYXY488,0.000518,0.269,0.987,2,-3.611,1,0.18,0.0871,0.699,0.0974,113.686,208145,4
+Serpentine Dominion,Serpentine Dominion,This Endless War,1Um6NLPG0YEcgfJZAe0BMP,8.48e-05,0.244,0.977,3,-3.751,1,0.109,0.0267,0.299,0.0394,120.261,278184,3
+Textures,Silhouettes,Laments Of An Icarus,7oywzBYcUg59unfSqa1D3Y,0.000517,0.219,0.993,6,-3.625,0,0.207,0.0,0.0698,0.203,144.825,252453,4
+Wintersun,Wintersun,Beautiful death,1ppyckvVrnmrAE4HlwLZHR,5.24e-05,0.174,0.84,0,-7.319,0,0.0537,0.549,0.409,0.0562,95.053,496400,3
+Chamber Of Malice,ZEROTWENTYEIGHTHATE,028 Hate,3KWrC3SPmV1VBpypRG8Ewh,0.000187,0.334,0.936,10,-4.067,0,0.151,0.831,0.269,0.191,109.763,212160,4
+Dark Sermon,In Tongues,Forfeit II: Worn Thin,4AQCJ8G8FICBdDwGVqL1Sy,0.000141,0.26,0.956,6,-4.115,1,0.102,0.451,0.0954,0.132,113.475,249067,4
+Dark Sermon,In Tongues,Forfeit I: The Crooked Quill,2WrokCzRsk7t0ZbLF2zhDm,0.0109,0.288,0.966,6,-3.65,1,0.108,0.0497,0.162,0.0703,108.466,257693,4
+Dark Sermon,The Oracle,Starve,1Y0D6t6UmiVmgeT3RbHJkK,1.21e-05,0.193,0.904,6,-4.953,0,0.0814,0.853,0.259,0.222,126.196,274118,1
+Dark Sermon,The Oracle,The Myth of Sanity,4kYKdU5ki6ZRur6tTVoVmK,2.6e-05,0.129,0.931,6,-5.803,1,0.0902,0.908,0.31,0.112,94.019,339919,4
+Dark Sermon,In Tongues,Hounds,2RxhOMNS0WktM0ST6LpzQd,0.000222,0.239,0.989,11,-4.11,1,0.151,0.795,0.105,0.0659,108.772,240067,4
+Demolition Hammer,Epidemic Of Violence,Human Dissection,2SbuCIni6GQsd6KGCswrdw,1.65e-06,0.339,0.97,10,-6.497,0,0.14,0.893,0.103,0.481,96.504,307067,4
+The Mountain Man,Bloodlust,Open Graves,72FO7eOswsKicO3muiSNgd,8.31e-06,0.26,0.972,4,-5.09,1,0.222,0.00649,0.16,0.244,109.388,261665,1
+The Mountain Man,Bloodlust,Bloodlust,31BkxsjsTJmJwTnuj63P0B,2.61e-06,0.347,0.994,4,-4.403,1,0.244,0.21,0.39,0.199,185.108,253241,4
+The Mountain Man,Bloodlust,Backhand of God,3jdd6FUvBbBMVWi21iXdr5,1.88e-05,0.474,0.737,4,-5.45,1,0.0453,9.93e-05,0.239,0.159,115.213,260837,4
+The Mountain Man,Bloodlust,The Great Decay,3yowKXemut5DqLJ5p1cjDq,2.71e-06,0.225,0.951,9,-5.125,1,0.1,0.00339,0.06,0.3,109.653,242862,4
+The Mountain Man,Bloodlust,Ghost,5PzVCSChekiYGrUkFfU1OZ,6.34e-06,0.159,0.964,4,-5.528,1,0.175,4.5e-06,0.173,0.42,179.873,245090,4
+Hopelezz,Sent to Destroy,From Deep Inside,4wA0YXB6T5Xuu7ipGO30w2,0.000321,0.45,0.965,8,-3.945,1,0.0621,0.145,0.0577,0.199,112.986,265437,4
+Hopelezz,Sent to Destroy,Struggle for Life,5HNqq0rzx5lr2cxLLUi4rg,0.00282,0.272,0.976,0,-4.552,0,0.14,0.033,0.38,0.165,199.748,234855,4
+Carnifex,Dead In My Arms,Lie To My Face,2NVQbNEmJ0ZVulQOpWa0PD,3.72e-06,0.199,0.994,1,-3.773,0,0.19,0.893,0.263,0.0624,110.713,181253,4
+Bloodred Hourglass,Where The Oceans Burn,Valkyrie,6BwcEv5M5WSQKJKJ2qkxWN,1.38e-05,0.283,0.974,8,-4.412,1,0.128,0.00011,0.399,0.134,195.861,229120,4
+Katalepsy,Autopsychosis,Cold Flesh Citadel,3Nhqrvlb2bEUhbREtd7kpe,0.000299,0.224,0.965,9,-2.966,1,0.132,0.373,0.284,0.217,95.015,221867,4
+Kataklysm,Best Of,At the Edge of the World,14vs5y7FkFfqeTVfVTtljM,4.14e-06,0.417,0.97,11,-3.637,1,0.0795,0.673,0.105,0.263,180.091,239347,4
+Carnal Decay,No Sequel / Freed from the Leash,Freed from the Leash,5DBAfCCn5oVFJhGLVTk4d9,1.69e-05,0.303,0.924,7,-4.206,1,0.0941,0.917,0.15,0.36,124.293,210160,3
+Fit For An Autopsy,Heads Will Hang,Heads Will Hang,6rZBnUMewbIDvTx2IRB1RV,6.26e-05,0.47,0.968,2,-3.195,0,0.0509,1.24e-05,0.0369,0.127,90.027,253187,4
+Analepsy,Atrocities from Beyond,Witnesses of Extinction,2mf9N4TDjalaPMubR3OJyO,8.66e-06,0.541,0.982,11,-3.562,1,0.127,0.762,0.225,0.168,113.353,180882,4
+Abhorrent Decimation,Miasmic Mutation,Miasmic Mutation,6MrvpMrzGq023ctekbOM4s,0.000151,0.442,0.902,1,-4.749,1,0.0816,0.0644,0.157,0.0798,96.748,273237,3
+Shadows Fall,The War Within,The Light That Blinds,2fnbCZHLXyrSdWhaRlBwQP,4.8e-05,0.427,0.938,10,-3.828,0,0.0706,0.00133,0.079,0.502,181.91,298333,4
+Acrania,The Beginning of the End,The Beginning,2UqEVNQ4AvoMtNK06pd3Tv,2.64e-05,0.617,0.83,6,-3.275,1,0.117,0.926,0.132,0.274,129.999,95091,4
+Acrania,The Beginning of the End,Auctioneer of Depravity,0m7L1OzqW3jgElGoekQT1r,0.00223,0.314,0.99,11,-3.036,0,0.276,0.0321,0.203,0.0967,134.942,226883,3
+Acrania,The Beginning of the End,The Depopulation Programme,5mRm9UtAYU03DtmupfYUrY,0.00479,0.328,0.983,6,-3.543,1,0.234,0.0208,0.165,0.13,101.687,221134,4
+Acrania,The Beginning of the End,Dimensional Molecular Transcendence,2FY9ZL9JwhGXJZ4agyxnwf,0.00233,0.588,0.988,0,-2.886,1,0.163,0.0678,0.339,0.15,119.936,225549,4
+Acrania,The Beginning of the End,A Trophy of Corporate Disfigurement,6zatdpaYWgskcTgl7unT0T,7.38e-05,0.223,0.96,10,-2.138,0,0.128,0.707,0.299,0.0593,110.602,250268,4
+King of Asgard,Fi'mbulvntr,Einharjar,0zxh8RyOVBL0sDvB8ytDY1,1.5e-06,0.164,0.956,8,-5.618,0,0.0561,0.0128,0.148,0.235,175.515,269760,3
+Amon Amarth,Once Sent From The Golden Hall,The Dragons' Flight Across The Waves,5bj5Nqllm7WhFPQ18yQX65,3.15e-06,0.236,0.993,8,-5.335,1,0.205,0.00117,0.134,0.0357,150.32,273800,4
+Amon Amarth,Twilight Of The Thunder God,Free Will Sacrifice,0FLN9WgDBztKtKNv0oeprJ,4.49e-05,0.389,0.991,4,-5.155,1,0.0667,0.106,0.184,0.385,171.072,248747,4
+Amon Amarth,With Oden On Our Side,Runes To My Memory,1kevNQF47RA24IRdyfwZO3,5.25e-05,0.479,0.99,7,-3.578,1,0.0936,0.0854,0.332,0.0373,125.989,272693,4
+Amon Amarth,Vs The World,Versus The World,4KlPO9wu9t2FE66Qr4XXdu,1.88e-06,0.449,0.978,3,-4.418,0,0.181,0.792,0.0853,0.0753,131.96,321347,4
+Amon Amarth,Surtur Rising,Slaves of Fear,1zaDy2wLDma4FKMrTBaM5K,2.18e-05,0.328,0.982,11,-5.737,1,0.0763,0.00315,0.304,0.211,196.01,265067,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Unholy Gravebirth,16A8guDmx9hibgSPEWSMzs,0.000214,0.183,0.989,6,-3.881,1,0.406,0.906,0.317,0.0397,87.474,288085,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Crucifilth,5ltUIsUC0ELJaIyjymCvgd,2.79e-05,0.216,0.966,3,-2.386,0,0.198,0.899,0.425,0.236,93.067,295030,3
+Infant Annihilator,The Elysian Grandeval Galèriarch,Motherless Miscarriage,5JV4pZybHQbHJIVMqhA9Ef,0.00592,0.271,0.882,0,-5.108,1,0.241,0.0302,0.87,0.114,92.222,138316,3
+Infant Annihilator,The Elysian Grandeval Galèriarch,"Baptised, Bastardised, Sodomised.",2nRZanRtKsZk20bGoqpvHf,5.16e-06,0.292,0.961,1,-2.909,0,0.13,0.932,0.185,0.147,155.114,263442,5
+Infant Annihilator,The Elysian Grandeval Galèriarch,"Behold the Kingdom of the Wretched Undying (feat. Tyler Shelton, Bryan Long, Dillon Becker & Chris Whited)",1hFsJwTXIH0tRg0oX0xkdu,3.28e-05,0.194,0.972,1,-3.038,0,0.342,0.476,0.0732,0.117,78.484,1060186,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Soil the Stillborn,4vWB3h09KFwuS62Ex7NllR,7.94e-06,0.236,0.981,6,-2.635,1,0.299,0.874,0.325,0.134,160.114,239696,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Paedophilic Ultimatum,6XLxcX45sefSal05DPgmNt,5.77e-05,0.324,0.838,1,-4.611,0,0.119,0.835,0.0879,0.143,65.718,70416,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Neutered in Utero,2Uk5xmMtDbZB2PlDRel3Yy,1.72e-05,0.276,0.968,11,-3.079,0,0.341,0.923,0.663,0.0654,117.777,286570,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Pelt of Innocent Flesh,7fcXZ483JrBaulUMlqDmRf,3.67e-05,0.279,0.98,11,-2.711,1,0.253,0.857,0.0915,0.104,119.662,424911,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Blasphemian,3fKeB6lVdwe6rUT2mnLo08,0.000407,0.176,0.953,10,-3.418,0,0.314,0.834,0.088,0.0395,80.476,444705,4
+Infant Annihilator,The Elysian Grandeval Galèriarch,Neonatalimpalionecrophiliation,6sI9Zd5P0aL0dENCcmWqcu,0.000122,0.0,0.566,4,-3.294,1,0.0,0.896,0.178,0.0,0.0,11811,0
+Dying Fetus,Panic Amongst the Herd - Single,Panic Amongst the Herd,0T7Lu42vVjKtw2emJhtFwX,0.00313,0.333,0.938,6,-6.851,0,0.18,0.703,0.436,0.384,117.391,198750,4
+Kataklysm,Serenity in fire,The Ambassador of Pain,1kZTvSAi3W9VMjUOZHHbUK,9.74e-05,0.493,0.948,7,-3.389,1,0.215,0.01,0.101,0.139,108.025,153707,3
+Analepsy,Atrocities from Beyond,Apocalyptic Premonition,0zaoWmsdB5KOk66yrQl6BF,3.15e-05,0.51,0.988,6,-4.151,1,0.128,0.758,0.355,0.18,140.033,205603,4
+Dying Fetus,Wrong One to Fuck With,Reveling in the Abyss,4umNSf3NGg6UO5Vtahq8eV,0.0052,0.327,0.956,6,-6.229,0,0.141,0.808,0.311,0.429,120.227,389500,4
+Dying Fetus,Wrong One to Fuck With,Seething with Disdain,0fOWiq3wEx8bkg06iDNe4F,0.00108,0.34,0.939,2,-6.055,1,0.0863,0.813,0.18,0.63,115.89,333000,4
+Until We Die,Before the Decay of Time (Deluxe Edition),Distorting of Perception,0dtO8YqN51tcJosKgU8Z0Q,0.000168,0.406,0.936,2,-4.564,0,0.11,0.242,0.062,0.251,139.922,180872,4
+Cytotoxin,Gamaggeddon,Radiatus Generis,0ymes871MrfmYBpcms6sFi,8.37e-06,0.28,0.957,1,-3.622,1,0.0835,0.903,0.227,0.259,132.502,255320,4
+Broken Hope,Mutilated and Assimilated,Mutilated and Assimilated,01omnjyGXUeLD32W7VMxpD,5.51e-05,0.209,0.951,2,-7.528,1,0.195,0.911,0.161,0.0891,91.384,211151,4
+The Black Dahlia Murder,Nightbringers,Widowmaker,77ZxhaxW6hMrhNDMCM3YOX,9.45e-06,0.432,0.983,0,-5.363,1,0.111,0.0529,0.0932,0.0747,105.037,201213,3
+The Black Dahlia Murder,Nightbringers,"Of God and Serpent, Of Spectre and Snake",4vydK9AtCXzT5OsOecR7Jd,2.84e-06,0.443,0.995,7,-4.758,1,0.16,0.00468,0.358,0.0522,111.967,229253,4
+The Black Dahlia Murder,Nightbringers,Matriarch,2MFc3B3KOfeNQFsvAZuJIM,6.28e-06,0.502,0.997,1,-4.361,1,0.139,0.157,0.352,0.222,120.019,204013,4
+The Black Dahlia Murder,Nightbringers,Nightbringers,2lR3REI1dq2Q64d9yeaaGN,5.99e-06,0.448,0.977,10,-4.325,0,0.0797,0.00416,0.24,0.121,97.583,215707,4
+The Black Dahlia Murder,Nightbringers,Jars,6QrXguWSD4roT6zZhYbu3T,2.93e-06,0.437,0.994,7,-4.068,1,0.174,0.479,0.0653,0.0998,110.075,217320,4
+The Black Dahlia Murder,Nightbringers,Kings of the Nightworld,4jKO9bRVCZpXy66xFeKBzP,5.3e-06,0.341,0.988,8,-3.916,1,0.104,0.269,0.305,0.361,169.973,193467,4
+The Black Dahlia Murder,Nightbringers,Catacomb Hecatomb,0Ga73N1P8W1YnqouOUAL9D,1.36e-05,0.422,0.996,0,-4.668,1,0.159,0.000451,0.3,0.0681,115.966,217120,4
+The Black Dahlia Murder,Nightbringers,As Good as Dead,4viyIXxGiBHGVB92z8XXUV,1.77e-06,0.422,0.993,0,-3.895,1,0.0937,0.047,0.299,0.105,100.046,214947,4
+The Black Dahlia Murder,Nightbringers,The Lonely Deceased,3WWTDcORoILuQZ4HBSWe7i,1.06e-05,0.206,0.983,5,-5.132,0,0.163,0.147,0.261,0.0671,180.147,306347,3
+Cannibal Grandpa,Septum Signa Inferno,Kingdom Under Your Feet (feat. Jose Manuel Tts),09Yp7DXFsNIT250hNrhsJC,0.00017,0.205,0.871,1,-6.584,1,0.109,0.839,0.381,0.279,199.786,256482,3
+Fleshmeadow,Umbra,A Vexing Mural,6C1BSJGLc68bCQGmIwvI0I,3.86e-05,0.484,0.922,5,-5.565,1,0.0904,0.856,0.494,0.0723,121.525,316045,4
+Six Feet Under,Death Rituals,Seed Of Filth,1o7lwSoH4RuByrlxTgj7qB,0.00714,0.425,0.837,7,-5.825,1,0.0337,0.721,0.084,0.525,95.006,297613,4
+Acranius,When Mutation Becomes Homicidal,Life Sustainment To Continue Mutilation,2RAtlv93O7sJcoDSklh9WM,5.02e-06,0.28,0.842,5,-4.652,1,0.107,0.901,0.0963,0.359,154.389,196613,3
+Children Of Bodom,I Worship Chaos,I Worship Chaos,1TkMTWXNGHQO6LdEYlAl64,5.36e-05,0.334,0.978,3,-5.801,0,0.0671,9.1e-06,0.776,0.612,188.033,219933,4
+Austrian Death Machine,Total Brutal,"If It Bleeds, We Can Kill It",4NjOzjILlsFb7hJaZjVvAg,6.14e-05,0.504,0.938,9,-3.945,1,0.0676,0.00267,0.145,0.258,94.778,222707,4
+Austrian Death Machine,Double Brutal,"I Need Your Clothes, Your Boots, and Your Motorcycle (from Terminator 2)",2RXOrb3pYET3xKjTNjDEdl,3.91e-05,0.338,0.972,6,-4.1,1,0.162,3.31e-05,0.293,0.52,90.937,233747,4
+Skulldrain,Hatred Rising,White Phosphorus Bombings,2vC9lymFNz11WC2wdFWlwT,2.38e-06,0.449,0.966,2,-5.09,1,0.0785,0.00643,0.345,0.276,139.902,204438,4
+Destruction,Thrash Anthems,Curse the Gods,0ptyB7zQ0J1uqein1X1E8I,1.68e-06,0.299,0.991,7,-3.061,1,0.0889,0.659,0.0745,0.503,102.998,316453,4
+Autopsy,Shitfun,Charred Remains,51bldDSed9m6Raj2BtRePR,2.02e-06,0.217,0.905,2,-8.619,1,0.0607,0.449,0.2,0.232,110.31,220333,4
+Mayhem,Esoteric Warfare,Watchers,09WTaYjud5bJgKFGWEPlmn,0.00173,0.381,0.967,6,-6.305,0,0.0882,0.519,0.387,0.119,124.972,379147,4
+Deserted Fear,The Carnage,The Carnage,1vXJJNYhzZSl88bcBtPHp6,6.87e-06,0.414,0.944,11,-5.716,0,0.0557,0.694,0.155,0.26,160.056,232800,4
+Black Therapy,"In the Embrace of Sorrow, I Smile",Stabbed,3bOhqGo8LZoZPnniBQyrEJ,2.63e-05,0.217,0.991,8,-3.343,1,0.126,0.0132,0.389,0.0741,195.062,258000,3
+The Black Dahlia Murder,Ritual,A Shrine to Madness,0VEk1PEMmFPb0dwoAK30sk,0.00025,0.449,0.947,7,-6.929,1,0.265,0.225,0.18,0.0379,112.462,280973,3
+The Black Dahlia Murder,Ritual,Malenchantments of the Necrosphere,5Pa7ItkLWxDeVejuXWwW4A,0.00106,0.581,0.935,7,-5.482,1,0.0652,0.108,0.187,0.306,95.002,258093,4
+Era of Discord,Terra Imperium,Our Misconception,5lgLPhrOQRDZIVCLj4W3JG,0.00625,0.292,0.979,6,-5.07,1,0.259,0.818,0.1,0.122,142.645,347387,4
+Cenotaph,Perverse Dehumanized Dysfunctions,Rancid Gluttonous Morbid Obesity,1uqTgkgdbf9Lf0f2b0lmcc,0.000119,0.437,0.999,1,-3.574,1,0.21,0.947,0.234,0.0384,114.997,221615,4
+Beheaded,Beast Incarnate,Beast Incarnate,798S53q8plGkyCIl4ENu2O,3.58e-06,0.404,0.925,9,-4.565,1,0.0764,0.0361,0.287,0.152,102.546,261947,3
+Putridity,Degenerating Anthropophagical Euphoria,Cannibalistic Postclimax Flesh Consumption,4QI6fHxTBSTDPss3YfAswW,1.28e-05,0.398,0.935,11,-4.457,0,0.169,0.873,0.693,0.429,139.955,158174,4
+Suffocation,Suffocation,Bind Torture Kill,7tMOs3uYmMQ10qz5fL4Aly,9.15e-06,0.383,0.993,11,-6.09,1,0.153,0.308,0.118,0.169,107.087,343533,4
+Lamb of God,Hourglass - Volume I - The Underground Years,Black Label,56Wlof9w3EInKlBhJSbdBY,2.79e-05,0.293,0.954,2,-5.582,1,0.0744,0.729,0.314,0.32,158.238,292133,3
+Logistic Slaughter,Corrosive Ethics,Cathartic Killing,1VmnZlKAkKeddTWSlcWoC7,0.00139,0.262,0.983,1,-1.858,1,0.227,0.737,0.346,0.134,152.546,190624,4
+Logistic Slaughter,Corrosive Ethics,A Horrendous Epiphany,2WLXb4jxPqmFsrWmRJVQSg,0.0045,0.329,0.961,11,-2.086,0,0.166,0.707,0.138,0.295,106.157,168547,3
+Logistic Slaughter,Corrosive Ethics,Inherently Vile,6yiufa9AoYMX0WjKGIFnrY,0.00663,0.307,0.941,0,-2.742,1,0.18,0.821,0.351,0.0995,135.969,291584,4
+Narcotic Wasteland,Delirium Tremens,Introspective Nightmares,3QqeLRO41T26FZHC5dOa9b,3.75e-06,0.523,0.894,0,-5.025,1,0.0533,0.807,0.182,0.16,120.764,296764,3
+Devourment,Conceived in Sewage,Fifty Ton War Machine,5CpAAbNdJ5CCyryja611TF,0.000208,0.234,0.963,1,-5.509,1,0.174,0.861,0.0837,0.183,174.991,256867,4
+Septic Congestion,Souls to Consume,Necrotize Tissue to Evovle Mutation,7qE6uezNUABHj1oPuMOD76,1.29e-05,0.196,0.954,10,-4.819,0,0.127,0.842,0.189,0.257,179.9,283301,4
+In Reverence,The Selected Breed,Jahiliah,5O0RsTbZqqHOgJGqtoiZkd,0.00077,0.42,0.982,4,-8.123,1,0.0988,0.127,0.107,0.0357,100.013,259776,4
+Acranius,When Mutation Becomes Homicidal,The Echo Of Her Cracking Chest,5byLl0KghNqlL320jhuWo7,2.23e-06,0.28,0.937,0,-4.668,0,0.119,0.895,0.0712,0.152,111.827,179507,3
+Pyaemia,Cerebral Cereal,Impaled on Stakes,5YtijXw6d7UeFPlnGxgVvP,0.00197,0.31,0.823,10,-10.668,0,0.0588,0.948,0.162,0.318,127.284,281653,4
+Incantation,Onward To Golgotha,Devoured Death,0pgOBcrcBjvgTVQVyW2azU,0.0365,0.147,0.888,1,-7.072,1,0.0792,0.969,0.477,0.244,172.864,139467,4
+Incantation,Onward To Golgotha,Blasphemous Cremation,6W5acYDSA5ewskna9UNBxD,0.00827,0.112,0.906,1,-6.954,1,0.0784,0.916,0.549,0.249,170.057,264360,3
+Incantation,Profane Nexus,Muse,2KXy8qUuV7xyVfx3zNfV4a,4.39e-06,0.175,0.947,1,-6.254,1,0.0878,0.83,0.126,0.0635,150.034,311348,3
+Tragacanth,The Journey of a Man,Bargaining: Will You Answer Me?,2VaHdEdfYMhCVphxwcWwqk,4.01e-05,0.485,0.947,1,-8.897,1,0.0724,0.564,0.103,0.043,119.969,276456,4
+Gojira,The Way of all Flesh,ESOTERIC SURGERY,70W08GzuWzxIGe8sC1Noso,7.35e-05,0.289,0.969,0,-4.551,0,0.123,0.121,0.11,0.0385,95.641,344747,4
+Gojira,The Way of all Flesh,ADORATION FOR NONE (feat. Randy Blythe),4yhOLVAclff5xbgGCLNQ48,2.38e-05,0.191,0.955,8,-4.25,1,0.118,0.000328,0.336,0.121,83.574,379800,4
+Annihilist,Vol. 1,Against the Wall,0i0JeSzPF9kOuORr1bwQ7H,7.7e-05,0.474,0.975,0,-4.365,0,0.143,0.038,0.333,0.109,134.958,365333,4
+Annihilist,Vol. 1,Solace in Suffering,17o1X4GgL6tb6ZKK6idrdQ,4.55e-05,0.551,0.949,0,-3.108,0,0.0453,0.833,0.115,0.18,123.015,409268,4
+Annihilist,Vol. 1,Sink,0t6IP5OxFPhathZBQYgThN,0.000341,0.498,0.984,8,-3.054,1,0.155,0.106,0.137,0.118,127.049,323683,4
+Annihilist,Vol. 1,Prevail,7p2tJvMJrQ4oggXIJwni7s,6.2e-05,0.511,0.966,1,-3.446,1,0.0995,0.0249,0.484,0.117,127.02,392598,4
+Annihilist,Vol. 1,Echoes,26RJU4csbrxS4nOYqiANj5,0.981,0.336,0.0998,3,-21.597,1,0.0357,0.902,0.125,0.0692,71.873,105637,4
+Annihilist,Vol. 1,Embers,7FBw2dxKoQUyrQdJsfUuuO,0.00156,0.278,0.969,0,-4.013,0,0.191,0.0185,0.354,0.0587,132.756,488615,4
+Avatar,Hail The Apocalypse,Bloody Angel,3xLQP5vMUPyqBtppqthe6s,0.00372,0.428,0.848,11,-6.988,0,0.046,0.0305,0.111,0.228,90.95,364653,4
+Avatar,The Black Waltz,Paint Me Red,39QV4taXCllNOzIk1Movek,2.25e-05,0.474,0.963,2,-3.241,1,0.0603,0.0172,0.0283,0.319,155.015,267040,4
+The Black Dahlia Murder,Verminous,Verminous,5L00SssgkYwcf0kpeTglvW,2.77e-05,0.503,0.943,1,-7.368,1,0.156,0.86,0.806,0.199,115.02,229808,4
+Lamb of God,Lamb of God,Memento Mori,1flcnqrtVKsluQXLEPfGJW,0.000151,0.317,0.985,2,-4.588,1,0.101,0.789,0.127,0.0483,123.008,348100,4
+Lamb of God,Lamb of God,Checkmate,3xu91T5DMRDq72pDQU2tfN,3.67e-05,0.523,0.994,2,-3.593,1,0.0716,0.356,0.25,0.115,119.959,270508,4
+Lamb of God,Lamb of God,Gears,15ecKqctCOhp8NBpoTVruA,1.14e-05,0.517,0.997,2,-3.063,1,0.108,0.705,0.304,0.127,134.993,235111,4
+Lamb of God,Lamb of God,Reality Bath,1SaBfSeh8ifi4ru9X1rn7h,4.91e-05,0.401,0.986,2,-3.831,1,0.328,0.563,0.0868,0.122,199.947,272484,4
+Lamb of God,Lamb of God,New Colossal Hate,5gwLD4lyU1WoYjJXtNRqBM,1.07e-05,0.377,0.995,2,-3.221,1,0.235,0.74,0.301,0.148,199.978,270746,3
+Lamb of God,Lamb of God,Resurrection Man,520RXauS1LLY6sTUUOO7h4,1.71e-05,0.336,0.977,7,-3.998,1,0.15,0.514,0.0937,0.104,130.048,299557,4
+Lamb of God,Lamb of God,Poison Dream (feat. Jamey Jasta),7nknbs4ejcGymtTLD4pC7K,4.31e-05,0.499,0.993,2,-2.773,1,0.0745,0.332,0.41,0.237,110.835,297714,4
+Lamb of God,Lamb of God,Routes (feat. Chuck Billy),49PYxhy4lKsoKzEqIeS3xM,2.14e-05,0.385,0.988,2,-2.966,1,0.112,0.727,0.0332,0.359,180.067,184002,4
+Lamb of God,Lamb of God,Bloodshot Eyes,0gPIlwRwezfkH1B5J2zDoT,2.33e-05,0.54,0.991,7,-3.115,1,0.0704,0.00329,0.337,0.189,116.012,237009,4
+Lamb of God,Lamb of God,On The Hook,5PH3Hn7n5CEXdCffmPCvUZ,2.65e-05,0.444,0.997,2,-3.097,1,0.132,0.766,0.257,0.0454,110.991,270469,4
+The Black Dahlia Murder,Verminous,Godlessly,1gjtjNTLDpK3cWq8TgoYqA,3.12e-06,0.5,0.977,1,-6.809,0,0.132,0.866,0.0982,0.12,124.124,207991,4
+The Black Dahlia Murder,Verminous,Removal of the Oaken Stake,5NIJXJ2zyBv1btCzyStkWy,5.57e-06,0.396,0.969,8,-6.911,0,0.0953,0.897,0.153,0.18,89.382,265801,4
+The Black Dahlia Murder,Verminous,Child of Night,54ZeB4NihIJugTgT3ZWcpj,3.26e-05,0.224,0.972,4,-7.148,1,0.148,0.681,0.0496,0.197,155.007,217901,3
+The Black Dahlia Murder,Verminous,Sunless Empire,5YD0yWOfFxFkUu8yrmwJJd,2.16e-05,0.453,0.955,1,-6.765,1,0.0686,0.206,0.0683,0.146,91.531,237495,4
+The Black Dahlia Murder,Verminous,The Leather Apron's Scorn,39YKGM5pmpO7ZoaOoIdk3z,1.06e-05,0.213,0.981,1,-7.345,1,0.136,0.682,0.567,0.139,150.415,213773,4
+The Black Dahlia Murder,Verminous,How Very Dead,718pUFNu5hfot2TONlQkd7,5.9e-06,0.262,0.967,1,-6.361,1,0.13,0.131,0.0724,0.187,115.565,187396,4
+The Black Dahlia Murder,Verminous,The Wereworm's Feast,3yqqwCHkKIutBGtAh28Kpi,4.42e-06,0.259,0.947,0,-6.899,1,0.0685,0.921,0.235,0.427,171.703,275949,4
+The Black Dahlia Murder,Verminous,A Womb in Dark Chrysalis (Interlude),4k0wN8SEU229X6QemoWYOG,0.892,0.417,0.191,0,-16.284,0,0.0363,0.743,0.177,0.151,101.17,48003,1
+The Black Dahlia Murder,Verminous,Dawn of Rats,4l5RuqvAmgg9V6V7brHrar,2.82e-06,0.416,0.952,5,-7.372,0,0.0904,0.0145,0.13,0.1,118.936,275973,3
